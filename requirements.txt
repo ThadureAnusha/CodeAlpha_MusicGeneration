@@ -1,0 +1,6 @@
+music21
+numpy
+tensorflow
+keras
+tqdm
+matplotlib
